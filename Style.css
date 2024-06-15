@@ -14,10 +14,13 @@ header{
 }
 
 .logo-imagem{
-    width: 50px;
-    height: 50px;
+    width: 120px;
+    height: 80px;
     background-color: black;
     border-radius: 30px;
+    background: url(logo-icecreamy.png);
+    position: relative;
+    background-size: cover;
 }
 .container-logo{
     display: flex;
@@ -27,3 +30,12 @@ header{
     display: inline-block;
     margin: 0 10px;
 }
+img{
+    width: 100%;
+}
+
+
+
+
+
+
