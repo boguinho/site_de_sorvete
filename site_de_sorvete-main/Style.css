@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+}
+
+.logo-imagem{
+    width: 120px;
+    height: 80px;
+    background-color: black;
+    border-radius: 30px;
+    background: url(logo-icecreamy.png);
+    position: relative;
+    background-size: cover;
+}
+.container-logo{
+    display: flex;
+    align-items: center;
+}
+.menu li{
+    display: inline-block;
+    margin: 0 10px;
+}
+img{
+    width: 100%;
+}
+
+
+
+
+
+
