@@ -12,6 +12,24 @@ header{
     align-items: center;
     height: 75px;
 }
+footer{
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 450px;
+    position: relative;
+
+}
+
+.logo-rodape{
+    background: url(logodorodape.jpg);
+    width: 120px;
+    height: 80px;
+    position: relative;
+    background-size: cover;
+    border-radius: 30px;
+}
 
 .logo-imagem{
     width: 120px;
